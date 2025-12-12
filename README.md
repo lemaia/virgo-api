@@ -4,7 +4,7 @@ Trading platform API with real-time capabilities built with Laravel 12.
 
 > **Note:** This is the backend API only. The frontend application is in a separate repository.
 >
-> Frontend Repository: [https://github.com/lemaia/virgo-app]()
+> Frontend Repository: [[https://github.com/lemaia/virgo-app]()](https://github.com/lemaia/virgo-api)
 
 ---
 
